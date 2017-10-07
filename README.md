@@ -4,7 +4,7 @@
 
 ## Description 
 
-Research software is an important part of the scholarly ecosystem and open science. There are efforts underway to ensure that research software is sustainable and treated as a “first-class” research product that is regarded, assessed, and cited in a manner similar to that of a journal article However, such efforts have been hampered by a lack of knowledge about what researchers are doing with their software, how they share their software, and what they value about their software. This project will shape understanding of research software practices such as usage, sharing, and impact to inform services offered by research data management at and beyond the UC Berkeley library to open science.
+Research software is an important part of the scholarly ecosystem and open science. There are efforts underway to ensure that research software is sustainable and treated as a “first-class” research product that is regarded, assessed, and cited in a manner similar to that of a journal article However, such efforts have been hampered by a lack of knowledge about what researchers are doing with their software, how they share their software, and what they value about their software. 
 
 
 **Partners/Collaborators:** UC Berkeley, California Digital Library
